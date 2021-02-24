@@ -16,3 +16,4 @@ whitenoise==5.1.0
 psycopg2==2.8.5
 django-heroku
 django-import-export
+xhtml2pdf
